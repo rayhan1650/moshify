@@ -9,8 +9,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.5"
   },
   "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhan1650/moshify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rayhan1650/moshify/issues"
+  },
+  "homepage": "https://github.com/rayhan1650/moshify#readme",
   "description": ""
 }
